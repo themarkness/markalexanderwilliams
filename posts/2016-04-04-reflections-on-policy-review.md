@@ -1,12 +1,10 @@
 ---
- 
-title:  "Reflections on policy review assignment"
-date:   2016-04-04
-desc: "Reflections on policy review assignment"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: Reflections on policy review assignment
+date: 2016-04-04
+author: Mark Williams
+summary: Reflections on policy review assignment
+tags: 
+  - MA
 ---
 A question arose around _"short-term, intermediate, and long-term outcomes and impacts regarding target audience behavior, awareness, attitudes and knowledge and whether there is anything in place at Falmouth University to track and observe these indicators that are specific, observable, measurable characteristics of changes that demonstrates progress towards the outcomes or impacts."_
 
@@ -33,4 +31,4 @@ _Don't forget to map your reflections against the UKPSF_ I think this one needs 
 2nd Marker Comments:
 --------------------
 
-_This is a very thorough and pertinent choice of topic as related to the HE arena and also your MA research â€“ as well as your professional role. The use of subheadings works well to keep the flow going and provides structure. It is a very detailed overview of the policy which I really enjoyed reading, though at times it lapses into outlining the policy rather than critically evaluating it. Are there any flaws? Have other institutions adopted it in better ways than your own HEI? Why? That said, you clearly integrate your discussion with a wide variety of sources showing your deep awareness of up to date scholarship in the area, as well as broader issues e.g. TEF in the current HE climate. You allude to the idea that the institution itself needs some clear strategic guidelines in our own creative context do you have any recommendations here? You might also like to consider some of these issues in the context of inclusive learning e.g. Ellis & Kent Disability and New Media and you might also enjoy [Malina's report for the HEA](http://adm-hea.brighton.ac.uk/library/files/adm-hea-projects/developing-online-resources-for-dyslexic-students-in-art-and-design/index.html)_
+_This is a very thorough and pertinent choice of topic as related to the HE arena and also your MA research â€“ as well as your professional role. The use of subheadings works well to keep the flow going and provides structure. It is a very detailed overview of the policy which I really enjoyed reading, though at times it lapses into outlining the policy rather than critically evaluating it. Are there any flaws? Have other institutions adopted it in better ways than your own HEI? Why? That said, you clearly integrate your discussion with a wide variety of sources showing your deep awareness of up to date scholarship in the area, as well as broader issues e.g. TEF in the current HE climate. You allude to the idea that the institution itself needs some clear strategic guidelines in our own creative context do you have any recommendations here? You might also like to consider some of these issues in the context of inclusive learning e.g. Ellis & Kent Disability and New Media and you might also enjoy [Malina's report for the HEA](http://adm-hea.brighton.ac.uk/library/files/adm-hea-projects/developing-online-resources-for-dyslexic-students-in-art-and-design/index.html)

@@ -1,12 +1,11 @@
 ---
- 
-title:  "Teaching obs."
-date:   2016-08-02
-desc: "Teaching observations"
-keywords: "Teaching, learning"
-categories: [MA]
-tags: [teaching]
-icon: fa-graduation-cap
+title: Teaching obs.
+date: 2016-08-02
+author: Mark Williams
+summary: Teaching observations
+tags: 
+  - MA
+  - teaching
 ---
 For the last few years, I've had the opportunity to present sessions to our BA (Hons) Fine Art cohort around digital capabilities and building up an ecosystem of tools that support their professional practice. I've always invited lesson observation from other staff members; partly because it's a requirement of the MA, but also because I think it's a really useful CPD opportunity to learn from other educators on things like use of resources, style of delivery, assessment of understanding etc. Most of the time, it's an exchange and I can go and watch them and we compare and contrast notes.
 

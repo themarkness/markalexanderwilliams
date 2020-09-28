@@ -1,12 +1,10 @@
 ---
- 
-title:  "Asking Questions"
-date:   2017-01-18
-desc: "Asking Questions"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: Asking Questions
+date:  2017-01-18
+author: Mark Williams
+summary: Asking Questions
+tags:
+  - MA
 ---
 For the second phases of the study, the data collection method I am using is a semi structured interview/focus group. This is what Wilson (2006) calls "free format" conducted like "natural conversations".
 

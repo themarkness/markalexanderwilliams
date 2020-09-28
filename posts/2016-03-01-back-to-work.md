@@ -1,12 +1,10 @@
 ---
- 
-title:  "Back to work"
-date:   2016-12-05
-desc: "Back to work"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: Back to work
+date: 2016-12-05
+author: Mark Williams
+summary: Back to work
+tags:
+  - MA
 ---
 It's 2016 already and I've lifted the lid on [the research proposal](https://docs.google.com/document/d/1Wm93JbaeT_QREJJaxCdvQqXaHiiXJ5ihIAhBJ4aI3TM/edit?usp=sharing) again. I've revisited some of the [text](https://d167tapqdyj68f.cloudfront.net/markawilliams.withknown.com/f/3/4/2/f342b47e9f9f9ef2f9b4dd5bbc6cdafd.file)s to code and pick out key themes. I'm really getting in to http://refme.com for adding quotes and annotations, you can highlight text off the web and annotate your citations in browser, which is definitely how easy it should be to conduct research.
 

@@ -1,12 +1,11 @@
 ---
- 
-title:  "Wellbeing"
-date:   2016-12-05
-desc: "Wellbeing"
-keywords: "Wellbeing, digital wellbeing"
-categories: [MA]
-tags: [wellbeing]
-icon: fa-graduation-cap
+title: Digital Wellbeing
+date:  2016-12-05
+author: Mark Williams
+summary: Wellbeing
+tags: 
+  - MA
+  - wellbeing
 ---
 I'm particularly interested in Digital Wellbeing as part of the student experience. How do institutions and staff support our learners in considering the impact of technology on themselves? How do students support themselves in this regard? I've recently heard the term 'Cyber Anxiety' to refer to engagement with technology and I think this ties in with the [Fear Of Missing Out](http://www.huffingtonpost.com/news/fear-of-missing-out/)(FOMO) and Jenkin's [Culture of Participation](https://www.youtube.com/watch?v=HYbSD_GdkjU). I was reading the brilliant [JISC/NUS Benchmarking Tool](http://repository.jisc.ac.uk/6140/1/Jisc_NUS_student_experience_benchmarking_tool.pdf) to give me some ideas for Focus Groups and Surveys and didn't realise that towards the end there's a section on Digital Wellbeing.
 

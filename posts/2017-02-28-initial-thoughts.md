@@ -1,12 +1,10 @@
 ---
- 
-title:  "Initial Thoughts"
-date:   2017-02-28
-desc: "Initial Thoughts"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: "Initial Thoughts"
+date:  2017-02-28
+author: Mark Williams
+summary: Initial Thoughts
+tags: 
+  - MA
 ---
 Had a first read through of my interview and focus group transcripts and made some notes, tried to connect some themes. It's really interesting and affirming when you read back and common terminology appears.
 

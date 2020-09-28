@@ -47,6 +47,11 @@ img {
 	height: auto;
 }
 
+.round {
+	border-radius: 50%;
+	max-width: 30%;
+}
+
 header,
 main,
 footer {

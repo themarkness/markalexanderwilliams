@@ -1,15 +1,13 @@
 ---
- 
-title:  "Reflections on BYOD4L"
-date:   2016-01-16
-desc: "Reflections on BYOD4L"
-keywords: "byod4l"
-categories: [MA]
-tags: [byod4l]
-icon: fa-graduation-cap
+title: Reflections on BYOD4L
+date: 2016-01-16T00:00:00.000Z
+author: Mark Williams
+summary: Reflections on BYOD4L
+tags: 
+  - MA
+  - byod4l
 ---
-
-Last week (11th-15th Jan), I had the opportunity to engage in the '**open magic box'** that is [Bring Your Own Device For Learning](https://www.google.com/url?q=https://byod4learning.wordpress.com/&sa=D&ust=1453303644487000&usg=AFQjCNFchb4iIeN60LPtU97xGbNvUEwGiw) or[#BYOD4L](https://www.google.com/url?q=https://twitter.com/hashtag/byod4l&sa=D&ust=1453303644487000&usg=AFQjCNHg9L3H31y2dYqiN16EY1SbBGls1w) on social media. I had taken part in 2015, but this year I also volunteered as a community mentor and helped facilitate a [tweetchat](https://www.google.com/url?q=http://lthechat.com/tweetchat-help/&sa=D&ust=1453303644488000&usg=AFQjCNGIUD9560huAA9adCk5XMmbvcjwSA).
+Last week (11th-15th Jan), I had the opportunity to engage in the '**open magic box'** that is [Bring Your Own Device For Learning](https://www.google.com/url?q=https://byod4learning.wordpress.com/&sa=D&ust=1453303644487000&usg=AFQjCNFchb4iIeN60LPtU97xGbNvUEwGiw) or[#BYOD4l(https://www.google.com/url?q=https://twitter.com/hashtag/byod4l&sa=D&ust=1453303644487000&usg=AFQjCNHg9L3H31y2dYqiN16EY1SbBGls1w) on social media. I had taken part in 2015, but this year I also volunteered as a community mentor and helped facilitate a [tweetchat](https://www.google.com/url?q=http://lthechat.com/tweetchat-help/&sa=D&ust=1453303644488000&usg=AFQjCNGIUD9560huAA9adCk5XMmbvcjwSA).
 
 BYOD4L is a fantastic community that spans the global education sector and focuses on the use of mobile/smart devices in learning and teaching. It runs over a week and participants have the opportunity to engage through a variety of online communities; [Google+](https://www.google.com/url?q=https://plus.google.com/u/0/communities/115166756393440336480&sa=D&ust=1453303644489000&usg=AFQjCNFiz9H1Bx2cAnX9_w3XTpVRHjdbpQ), Facebook and Twitter and at a time and place appropriate to them (often people are in different timezones).
 

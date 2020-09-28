@@ -1,12 +1,10 @@
 ---
- 
-title:  "Analysis continued"
-date:   2017-02-28
-desc: "Analysis continued"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: Analysis continued
+date:  2017-02-28
+author: Mark Williams
+summary: Analysis continued
+tags: 
+  - MA
 ---
 I've been trying to get my head around the data analysis side of things. The [Braun & Clarke (2006)](https://www.researchgate.net/profile/Eliana_Gallardo_Echenique/publication/275952540/figure/fig1/AS:294476196139009@1447220004396/Figure-1-Phases-of-Thematic-Analysis-Adapted-from-Braun-Clarke-2006-p-87.png) diagram of thematic analysis helps and I will definitely use this approach. I have been taken of on a tagent a bit by use of the [AntConc](http://www.laurenceanthony.net/software.html) software. It's really interesting to see commonality in data items, but it's difficult to know how or if to interpret patterns that are more than a word count.
 
@@ -24,7 +22,7 @@ The **first step of immersion** is to become familiar with the transcripts so th
 
 The **second step of coding** is not just about generating descriptive labels for the text, but about contextualising the data and identifying what the researcher is asking from it. This is an iterative process and data may be re-coded or assigned to multiple codes
 
-The **third step of categorisation** is about finding a good fit between codes. Data may be categorised, but it will still need explaining and this may be through defining a theme (see Green's example of 'time' category). Many studies stop at this stage and present a description of categories along with illustrative quotes, but it is important to acknowledge the full extent of the data that doesn't fit within the category.
+The **third step of categorisation** is about finding a good fit between codes. Data may be categorised, but it will still need explaining and this may be through defining a theme (see Green's example of 'time' category). Many studies stop at this stage and present a description of tags along with illustrative quotes, but it is important to acknowledge the full extent of the data that doesn't fit within the category.
 
 Which leads to the **fourth step of identifying themes.** This is moving beyond description to explanation and interpretation. This involves testing the explanation against the data and the theory. A theme must explore the significance of a category.
 

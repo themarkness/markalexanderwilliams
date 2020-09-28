@@ -1,12 +1,10 @@
 ---
- 
-title:  "Literature Review"
-date:   2017-01-20
-desc: "Literature Review"
-keywords: ""
-categories: [MA]
-tags: []
-icon: fa-graduation-cap
+title: Literature Review
+date:  2017-01-20
+author: Mark Williams
+summary: Literature Review
+tags: 
+  - MA
 ---
 On writing a literature review Baker (2000) considers the concept of the Expected Value of Perfect Information (EVPI) which balances the cost of acquiring new information against the value of the new knowledge acquired. Is it worth the time you are investing in research, if it's already been or being undertaken by someone else. What are you bringing to it?
 
