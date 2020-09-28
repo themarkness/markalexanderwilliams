@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
+	--primary:  #13547a;
+	--secondary: #80d0c7;
+	--background: white;
 }
 
 *, *:before, *:after {
@@ -11,7 +11,8 @@
 html,
 body {
 	padding: 0;
-	margin: 0;
+	margin-left: 7%;
+	margin-right: 7%;
 	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
@@ -44,6 +45,11 @@ a[href]:not(:hover) {
 img {
 	max-width: 100%;
 	height: auto;
+}
+
+.round {
+	border-radius: 50%;
+	max-width: 30%;
 }
 
 header,
