@@ -4,7 +4,7 @@ date:  2025-06-02
 author: Mark Williams
 summary: How visualising the outcomes and opportunity space can help you work backwards and forwards to gain a shared understanding
 tags: 
-  - product
+  - product-management
 ---
 Kotahi is a peer review platform in the Coko ecosystem. When I joined the team there was a well scoped set of project milestones and a large backlog for delivery. This is a good approach when you are working to specific, well scoped deliverables and you know the capacity you will have in the team for the work, but the world doesn't stop turning when you have outlined all your outputs. 
 

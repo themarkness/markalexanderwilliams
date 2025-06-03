@@ -4,7 +4,7 @@ date:  2025-05-21
 author: Mark Williams
 summary: A Just-in-time prioritisation matrix to assess bugs against priority and severity
 tags: 
-  - product
+  - product-management
 ---
 One of the most challenging balancing acts in Product Management is maintaining product quality while still being focused on delivering value. The question of "what do we do about this bug?" can create tension in outcome focussed teams. If you are working towards driving a particular metric or goal, should bug fixes be prioritised over acheiving that goal?
 
