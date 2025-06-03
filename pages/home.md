@@ -30,4 +30,10 @@ Some stuff I've worked on over the years from fully blown software to micro-SaaS
 
 [Projects](/projects)
 
+## 🏆 Awards and CPD
+
+[Certificate in Lean Product Management](/static/img/Lean%20PM%20Course%20Certificate.pdf)
+[CDH Certificate in assumption testing](/static/img/certificate-assumption-testing-may-2024-65a8abd0164402e6590b5794.pdf)
+
+
 You can also [drop me a line](/contact) if you'd like to get in touch, or [book some time to chat]([text](https://cal.com/mark-williams))
