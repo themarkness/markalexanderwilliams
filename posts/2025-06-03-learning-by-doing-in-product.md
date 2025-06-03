@@ -20,7 +20,7 @@ I began with reading the documentation, knowledge-base and familiarising myself 
 
 To do this, I set up one-to-one conversations with Foundation colleagues, asking directly about user pain points. I reached out to local schools, speaking with teachers about their classroom experiences. 
 
-To immerse myself further, I volunteered to help give a talk at the PyCon event on common technical issues and solutions, creating a strong pull for me to learn and feel confident. Working with David Whale, "micro:bit Wizard", we evolved this into something more interesting a roleplay session where we acted out typical IT support scenarios schools face- it's probaly still on YouTube somewhere. Though it meant putting myself in a more vulernable position, open to criticism I learnt more about the typical problems that teachers faced when using the device and it helped me empathise and understand.
+To immerse myself further, I volunteered to help give a talk at the PyCon event on common technical issues and solutions, creating a strong pull for me to learn and feel confident. Working with David Whale, "micro:bit Wizard", we evolved this into something more interesting a roleplay session where we acted out typical IT support scenarios schools face- it's probably still on YouTube somewhere. Though it meant putting myself in a more vulnerable position, open to criticism I learnt more about the typical problems that teachers faced when using the device and it helped me empathise and understand.
 
 By roleplaying real support scenarios, we created an authentic connection with our audience. Teachers and developers approached us afterward with specific problems, giving me unfiltered insight into user pain points. Empathy and connection works both ways, people felt more able to approach me because of this talk and I am still in touch with some of those people today.
 
@@ -30,7 +30,7 @@ In terms of my work, I could now field technical support questions confidently, 
 
 When I joined the Sciety team at eLife, I faced an even steeper learning curve. I had been working in education and ed-tech focussed roles for much of my career. Scientific publishing, preprinting workflows, scholarly communication was an entirely new domain with established stakeholders and complex user journeys.
 
-I applied the same learning by doing approach. I immediately joined daily standups and offered to facilitate them, gaining shared language and visibility into team dynamics. More significantly,I set up a"story-time" session wich was a team meeting based around sharing domain knowledge and creating pulls for learning.
+I applied the same learning by doing approach. I immediately joined daily standups and offered to facilitate them, gaining shared language and visibility into team dynamics. More significantly,I set up a"story-time" session which was a team meeting based around sharing domain knowledge and creating pulls for learning.
 
 Story time is aimed to be a safe space for team discussion, "silly" questions, domain exploration, and user research synthesis. 
 

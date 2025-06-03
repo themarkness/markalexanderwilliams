@@ -6,7 +6,7 @@ summary: A Just-in-time prioritisation matrix to assess bugs against priority an
 tags: 
   - product-management
 ---
-One of the most challenging balancing acts in Product Management is maintaining product quality while still being focused on delivering value. The question of "what do we do about this bug?" can create tension in outcome focussed teams. If you are working towards driving a particular metric or goal, should bug fixes be prioritised over acheiving that goal?
+One of the most challenging balancing acts in Product Management is maintaining product quality while still being focused on delivering value. The question of "what do we do about this bug?" can create tension in outcome focussed teams. If you are working towards driving a particular metric or goal, should bug fixes be prioritised over achieving that goal?
 
 Feeling this tension within teams I have worked with, I explored this question with fellow PMs in the Continuous Discovery Habits community, where approaches varied widely. One team dedicates two weeks at the end of each feature sprint specifically for bugs, snags and developer-prioritised work that relate to the sprint. They said that this way developers knew that they would be able to address things in the code that they felt strongly about, whilst maintaining focus on the sprint goal. A tech-lead informed me of an alternative stance, having a "zero bugs backlog" policy; either fix it now or delete the ticket. I also recall when I used to work with the MakeCode team at micro:bit, bugs would be given Priority tags; P0 being a critical fix to P2 which often ended up as "won't fix". These were triaged weekly, but not always addressed until the yearly main release. 
 
@@ -33,13 +33,13 @@ This creates four quadrants that guide our response to different types of issues
 
 ## Beyond assessing bugs: Prioritising the work
 
-These quadrants gave us a  space in which  to  discuss where  we  would how to assess  or triage the issue, but I soon found that the team were still asking questions about the priority. Should something interupt ongoing work? Should it be the next thing in the queue? We decided to visualise  these decisions on our  matrix. For example, in the  case  of feature failure we felt  this  should jump to the top of the queue and interupt ongoing work.
+These quadrants gave us a  space in which  to  discuss where  we  would how to assess  or triage the issue, but I soon found that the team were still asking questions about the priority. Should something interrupt ongoing work? Should it be the next thing in the queue? We decided to visualise  these decisions on our  matrix. For example, in the  case  of feature failure we felt  this  should jump to the top of the queue and interrupt ongoing work.
 
 ## Beyond assessing bugs: The "Anomaly" Category
 
-Another part of the team's weekly rituals is to review errot logs. On one occasion we saw that we had over 250k errors in the last week relating to one feature. One of our key innovations was adding the concept of "anomalies"—issues where we're not even certain if there's a bug or what's causing unusual behavior. For these, we created a timeboxed investigation process that helps us understand the root cause and potential impact before committing resources.
+Another part of the team's weekly rituals is to review error logs. On one occasion we saw that we had over 250k errors in the last week relating to one feature. One of our key innovations was adding the concept of "anomalies"—issues where we're not even certain if there's a bug or what's causing unusual behavior. For these, we created a time-boxed investigation process that helps us understand the root cause and potential impact before committing resources.
 
-By evolving this process oveer time we ended up with a map that articulated priorities, examples and actions to take.
+By evolving this process over time we ended up with a map that articulated priorities, examples and actions to take.
 
 ![Bug Prioritisation Matrix populated](/static/img/bug-matrix-2.jpg)
 
@@ -49,7 +49,7 @@ By evolving this process oveer time we ended up with a map that articulated prio
 - Feature failures with no workaround
 - Critical errors (like our case where 250k errors were reported weekly for a critical feature)
 
-**Action:** Straight to the top of the queuee, interupting ongoing work and fix
+**Action:** Straight to the top of the queue, interrupting ongoing work and fix
 
 ### Low Severity, High Priority
 **Examples**
@@ -57,7 +57,7 @@ By evolving this process oveer time we ended up with a map that articulated prio
 - Unusual activity like lots of versions in an activity feed but they are not articles, we don't know why this is happening
 
 **Action**
-Strait to the top of the queue after completing WIP. Timebox the activity if it's an anomaly
+Strait to the top of the queue after completing WIP. Time-box the activity if it's an anomaly
 
 
 ### High Severity, Low Priority

@@ -11,11 +11,11 @@ The product management lifecycle is typically visualised as a loop of activities
 
 ![Product management lifecycle](/static/img/product-management-lifecycle-empty.png)
 
-Strategy informs the direction and out of that you might create artefacts like Vision, Misson and Outcomes for the team to impact.
+Strategy informs the direction and out of that you might create artefacts like Vision, Mission and Outcomes for the team to impact.
 
 ## Types of activity involved in product lifecycle management
 
-A product outcome informs the scope of discovery and delivery and then a further range of artefeacts might be used to support the Discovery (figuring out what to build) and Delivery (building and measuring).
+A product outcome informs the scope of discovery and delivery and then a further range of artefacts might be used to support the Discovery (figuring out what to build) and Delivery (building and measuring).
 
 ![Product management lifecycle activities](/static/img/product-management-lifecycle-activities.png)
 
@@ -56,12 +56,12 @@ One o the opportunities we uncovered as a product trio was "I can't find article
 The team considered lot sof ideas and decided to test out
 
 - Let people browse by category  
-- Add AI reccomended articles  
-- Concierge feeeds of articles by topic
+- Add AI recommended articles  
+- Concierge feeds of articles by topic
 
 To validate these, you are looking to increase confidence in the idea and or derisk it if it presents risk to the business. We did this through a combination of looking back at historic data and creating working software prototypes.
 
-By delploying a working example for our "add AI reccomended articles", we were able to see a positive signal of people interacting with the realted articles. This increased our confidence and the team deployed the solution.
+By deploying a working example for our "add AI recommended articles", we were able to see a positive signal of people interacting with the related articles. This increased our confidence and the team deployed the solution.
 
 I gave this a 3 month time for evaluation, given that our long term goal for our funder had a 3 year window. In that time I saw that we tripled on-site discovery and kept people on site. Our discovery of evaluated articles increased to 2000pcm.
 
