@@ -8,7 +8,7 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-<img class= "round" src="../static/img/eb03ef50499feb8dd456a5f289083427.png"></img>
+<img class= "round" src="../static/img/669a2f330e431a3b2a024ea2966916e8.png"></img>
 
 I'd describe myself as a generalist, with experience in technology, education and product. A jack of all trades and a master of some. 
 
