@@ -194,6 +194,21 @@ button {
 	cursor: pointer;
 }
 
+#theme-toggle {
+	background-color: transparent;
+	border: 1px solid var(--primary);
+	color: var(--primary);
+	cursor: pointer;
+	float: right;
+}
+
+[data-theme="dark"] {
+	--primary: #80d0c7;
+	--secondary: #13547a;
+	--background: #1a1a1a;
+	color: #fcf6f0;
+}
+
 @media screen and (min-width:768px) {
 	:root {
 		font-size: 1.1rem;
