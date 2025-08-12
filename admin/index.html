@@ -14,9 +14,27 @@
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
     <script type="module" src="/admin/preview-templates/index.js"></script>
     <script>
+      // Handle recovery token from URL hash
+      if (window.location.hash && window.location.hash.includes('recovery_token')) {
+        const token = window.location.hash.split('recovery_token=')[1];
+        if (token) {
+          // Store the token and redirect to admin
+          localStorage.setItem('netlify_recovery_token', token);
+          window.location.href = '/admin/';
+        }
+      }
+
       if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
           if (!user) {
+            // Check if we have a recovery token
+            const recoveryToken = localStorage.getItem('netlify_recovery_token');
+            if (recoveryToken) {
+              // Use the recovery token to complete authentication
+              window.netlifyIdentity.open('recovery');
+              localStorage.removeItem('netlify_recovery_token');
+            }
+            
             window.netlifyIdentity.on("login", () => {
               document.location.href = "/admin/";
             });

@@ -15,6 +15,20 @@
 
 		{% include "components/footer.njk" %}
 
+		<!-- Include Netlify Identity for authentication -->
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+		<script>
+			// Handle recovery token from URL hash
+			if (window.location.hash && window.location.hash.includes('recovery_token')) {
+				const token = window.location.hash.split('recovery_token=')[1];
+				if (token) {
+					// Store the token and redirect to admin
+					localStorage.setItem('netlify_recovery_token', token);
+					window.location.href = '/admin/';
+				}
+			}
+		</script>
+
 	</body>
 
 </html>
