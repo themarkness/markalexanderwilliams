@@ -5,6 +5,7 @@ author: Mark Williams
 summary: A practical journey exploring Nix and NixOS, from first expressions to deploying a real NixOS server, with lessons on reproducibility, flakes, and troubleshooting.
 tags:
   - nlnet
+---
 
 ## Introduction
 
