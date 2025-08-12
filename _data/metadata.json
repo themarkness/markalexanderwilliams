@@ -1,5 +1,6 @@
 {
   "title": "Mark Alexander Williams",
+  "description": "A template for building a simple blog website with the Eleventy static site generator, Decap CMS, and with deployment to Netlify.",
   "url": "https://markalexanderwilliams.co.uk",
   "profile": "https://mrkn.us/static/assets/img/landing/2f86b7a5e329c7777a0062ae2ccf23a9.jpeg"
 }

@@ -1,15 +1,16 @@
 <head>
   <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
+  <meta name="generator" content="{{ eleventy.generator }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ title or renderData.title or metadata.title }}</title>
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <title>{{ title or metadata.title }}</title>
+  <meta name="description" content="{{ metaDescription or eleventyComputed.metaDescription or metadata.description }}">
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
-  {% set js %}
+  {# Uncomment below if you want to include minified inline JavaScript #}
+  {# {% set js %}
     {% include "assets/js/inline.js" %}
   {% endset %}
-  <script>{{ js | jsmin | safe }}</script>
+  <script>{{ js | jsmin | safe }}</script> #}
 </head>

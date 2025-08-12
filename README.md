@@ -2,27 +2,31 @@
 
 # Eleventy Netlify Boilerplate
 
+### Click the button below to try it out!
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/danurbanowicz/eleventy-netlify-boilerplate&stack=cms)
+
 ## What is it?
 
-A simple template for building a fast, pre-generated HTML website using the [Eleventy](https://www.11ty.io/) static site generator. With [Netlify CMS](https://www.netlifycms.org/) baked-in, ready to deploy to [Netlify](https://www.netlify.com) in a couple of clicks.
+A simple template for building a fast, pre-generated HTML website using the [Eleventy](https://www.11ty.dev/) static site generator. With [Decap CMS](https://www.decapcms.org/) (formerly Netlify CMS) baked-in, ready to deploy to [Netlify](https://www.netlify.com) in a couple of clicks.
 
-Use it as a starter for your own JAMstack projects, or as an easy way to get started building websites with Eleventy.
+Use it as a starter for your own Jamstack projects, or as an easy way to get started building websites with Eleventy.
 
 Based on the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) repo (see there for additional info on Eleventy usage).
-
-🔥 **This project is featured on Netlify's official [template showcase](https://templates.netlify.com/template/eleventy-netlify-boilerplate/)** 🔥
 
 ## [Demo Site](https://eleventy-netlify-boilerplate.netlify.app/)
 
 ## Features
 
-* NEW: Added basic support for post authors, using a simple folder collection
-* Uses the official [Eleventy Navigation](https://www.11ty.dev/docs/plugins/navigation/) plugin to build menus
+* Uses Eleventy v2.0.1
 * Sample pages and a blog with tag support
-* Netlify CMS with editor previews (thanks [@biilmann](https://github.com/biilmann)!)
+* Decap CMS with editor previews (thanks [@biilmann](https://github.com/biilmann)!)
+* Scores 100/100/100/100 in Lighthouse performance tests 🔥
+* Maintenance-free post author archives
+* Automatic navigation menus with [Eleventy Navigation](https://www.11ty.dev/docs/plugins/navigation/)
 * Includes a working contact form
 * CSS 2kb minified, inlined for fastest page render
-* Optional pipeline for minified inline JS
+* Optional pipeline for your minified inline JS
 * Pre-builds and minifies your HTML too
 * Uses Markdown files for content
 * Uses Nunjucks (or Liquid) templates for layout
@@ -40,16 +44,17 @@ and everything needed for running the CMS:
 * A new repository in your GitHub account with the code
 * Full Continuous Deployment to Netlify's global CDN network
 * Control users and access with Netlify Identity
-* Manage content with Netlify CMS
+* Manage content with Decap CMS
 * Process form data with Netlify Forms
 
-### Setup authentication
+### Set Up Authentication
 
 After deploying this project, Netlify Identity will add you as a CMS user and
 will email you an invite. It is not necessary to accept this invite if you wish
 to use an
 [OAuth provider](https://www.netlify.com/docs/identity/#external-provider-login)
 (e.g. Github) to manage authentication for your CMS.
+
 It is recommended to use this method of authentication as it removes the need
 for an email & password to log in to the CMS and is generally more secure. You
 will need to add an OAuth provider in your Netlify app settings under
@@ -58,7 +63,15 @@ will need to add an OAuth provider in your Netlify app settings under
 Once you've added an OAuth provider, navigate to `/admin` on your site, select your provider from the
 list, and you should then be logged into your CMS. Cool huh?
 
-Now you're all set, and you can start editing content!
+### Set Up Identity Email Templates
+
+In order for Netlify Identity service emails (Signup, Reset Password etc) to function correctly with Decap CMS, you will need to tell Netlify where your email templates are located.
+
+Inside this repo under `/admin/email-templates/` are four Netlify Identity email templates. Inside your Netlify site settings, you will need to navigate to: "Site Settings > Identity" and look there for the four email template configuration boxes: Invitation template, Confirmation template, Recovery template, and Email change template. Inside each, edit the "Path to template" field to match the root-relative path to each template. For example:
+
+`/admin/email-templates/invitation.html`
+
+Now you're all set; you can invite new CMS users and begin editing content!
 
 ## Gotchas
 
@@ -68,7 +81,7 @@ regenerate your token, head to "Settings" in your Netlify site dashboard, go to 
 section, then scroll to "Services" where you'll see an "Edit settings" button. Click that and you'll
 see a text link to "Generate access token in GitHub".
 
-If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
+If you need any help with setting up Decap CMS, you can reach out to the Netlify team in the [Decap CMS Gitter](https://gitter.im/netlify/netlifycms).
 
 ## Local development
 
@@ -108,6 +121,11 @@ Or build automatically when a template changes:
 npx @11ty/eleventy --watch
 ```
 
+Or build and host locally for local development:
+```
+npx @11ty/eleventy --serve
+```
+
 Or in debug mode:
 ```
 DEBUG=* npx @11ty/eleventy
@@ -117,4 +135,4 @@ DEBUG=* npx @11ty/eleventy
 
 This is an ongoing project and I welcome contributions and suggestions! Feel free to submit a PR.
 
-If you need any help with setting up Netlify CMS, you can reach out to the Netlify team in the [Netlify CMS Gitter](https://gitter.im/netlify/netlifycms).
+If you need any help with setting up Decap CMS, you can reach out to the Netlify team in the [Decap CMS Gitter](https://gitter.im/netlify/netlifycms).

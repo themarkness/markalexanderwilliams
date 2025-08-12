@@ -1,7 +1,6 @@
 ---
-layout: layouts/page.njk
 title: About me
-section: about
+metaDescription: Mark Alexander Williams - Generalist with experience in technology, education and product management
 date: 2022-09-02
 permalink: /about/index.html
 eleventyNavigation:
